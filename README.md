@@ -1,6 +1,4 @@
-_<p align="center">
-  <img src="dogman.mp4" width="100%">
-</p>
+
 # ⚡ Monster Castle Laboratory — Wolfman Mike’s Music Mastering Magic ⚡
 
 **AI‑Driven Harmonic Mastering Suite** blending ancient resonance principles with modern audio engineering.  

@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image1.gif" alt="Monster Castle Laboratory Animation" width="100%">
+</p>
 
 # ⚡ Monster Castle Laboratory — Wolfman Mike’s Music Mastering Magic ⚡
 

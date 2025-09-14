@@ -1,2 +1,2 @@
-# wolfman-mike-music-mastering-magic
+# wolfman-mike's-music-mastering-magic
 with harmonic Earth resonance

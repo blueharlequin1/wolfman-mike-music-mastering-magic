@@ -1,4 +1,7 @@
-_# ⚡ Monster Castle Laboratory — Wolfman Mike’s Music Mastering Magic ⚡
+_<p align="center">
+  <img src="Copilot_20250725_232204.png" alt="Monster Castle Laboratory Banner" width="100%">
+</p>
+# ⚡ Monster Castle Laboratory — Wolfman Mike’s Music Mastering Magic ⚡
 
 **AI‑Driven Harmonic Mastering Suite** blending ancient resonance principles with modern audio engineering.  
 Powered by the **MCP Resonance Memory Core** running inside **Pieces OS**, with live control via **Manus Dashboard**.

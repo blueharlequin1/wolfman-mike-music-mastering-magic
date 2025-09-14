@@ -1,5 +1,5 @@
 _<p align="center">
-  <img src="Copilot_20250725_232204.png" alt="Monster Castle Laboratory Banner-dogman.mp4" width="100%">
+  <img src="dogman.mp4" width="100%">
 </p>
 # ⚡ Monster Castle Laboratory — Wolfman Mike’s Music Mastering Magic ⚡
 
